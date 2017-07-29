@@ -15,6 +15,10 @@
 	</div><br/>
 	<div class="container">
 		<div class="contant">
+			<!-- put new button : Add Customer -->
+			<input type="button" value="Add Customer"
+				onclick="window.location.href='showFromForAdd'; return false;"
+				class="add-button"/>
 			<!-- Add our html table here -->
 			<table>
 				<tr>
