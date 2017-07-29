@@ -12,7 +12,7 @@
 		<div id="header">
 			<h2>CRM - Customer Relationship Manager</h2>
 		</div>
-	</div>
+	</div><br/>
 	<div class="container">
 		<div class="contant">
 			<!-- Add our html table here -->
