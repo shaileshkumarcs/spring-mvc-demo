@@ -1,2 +1,4 @@
-# spring-mvc-demo
-Mini CRM project using spring-mvc-hibernate-jdbc/mysql
+# Java spring-mvc-hibernate Mini CRM Project 
+---
+### I used Spring-mvc, Hibernate, Mysql and Eclipse
+---
